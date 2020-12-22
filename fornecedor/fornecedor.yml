@@ -1,7 +1,7 @@
 spring:
   datasource:
-    password: root
-    username: root
+    password: 681683
+    username: postgres
     url: 'jdbc:postgresql://localhost:5432/alura'
   jpa:
     hibernate:
